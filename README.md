@@ -1,4 +1,4 @@
-# python
+# tic tac toe
 Tic tac toe game project
 All in console.
 Contains functions like:
