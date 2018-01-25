@@ -1,4 +1,8 @@
 # python
-My python projects
-
-Here are some of my python exercises I do while learning. 
+Tic tac toe game project
+All in console.
+Contains functions like:
+- display board of tictactoe
+- ask user where to put a mark
+- checks if won
+etc.
